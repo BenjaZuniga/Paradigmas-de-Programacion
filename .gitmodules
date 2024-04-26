@@ -1,3 +1,6 @@
 [submodule "lab1_21337525_Zuniga"]
 	path = lab1_21337525_Zuniga
 	url = https://github.com/BenjaZuniga/lab1_21337525_Zuniga
+[submodule "Laboratorio 1/lab1_21337525_Zuniga"]
+	path = Laboratorio 1/lab1_21337525_Zuniga
+	url = https://github.com/BenjaZuniga/lab1_21337525_Zuniga
