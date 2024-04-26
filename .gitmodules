@@ -19,3 +19,6 @@
 [submodule "Laboratorio 3/Codigo"]
 	path = Laboratorio 3/Codigo
 	url = https://github.com/BenjaZuniga/lab3_21337525_ZunigaJofre
+[submodule "Laboratorio 2/Codigo"]
+	path = Laboratorio 2/Codigo
+	url = https://github.com/BenjaZuniga/lab2_21337525_ZunigaJofre
