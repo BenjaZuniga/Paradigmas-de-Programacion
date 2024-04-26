@@ -4,3 +4,18 @@
 [submodule "Laboratorio 1/lab1_21337525_Zuniga"]
 	path = Laboratorio 1/lab1_21337525_Zuniga
 	url = https://github.com/BenjaZuniga/lab1_21337525_Zuniga
+[submodule "as"]
+	path = as
+	url = https://github.com/BenjaZuniga/lab2_21337525_ZunigaJofre
+[submodule "Codigo-RFs"]
+	path = Codigo-RFs
+	url = https://github.com/BenjaZuniga/lab2_21337525_ZunigaJofre
+[submodule "Laboratorio 2/Codigo-RFs"]
+	path = Laboratorio 2/Codigo-RFs
+	url = https://github.com/BenjaZuniga/lab2_21337525_ZunigaJofre
+[submodule "Laboratorio 1/Codigo"]
+	path = Laboratorio 1/Codigo
+	url = https://github.com/BenjaZuniga/lab1_21337525_Zuniga
+[submodule "Laboratorio 3/Codigo"]
+	path = Laboratorio 3/Codigo
+	url = https://github.com/BenjaZuniga/lab3_21337525_ZunigaJofre
